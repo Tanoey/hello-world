@@ -7,3 +7,8 @@ Once you are done with your edits, you can press commit changes to save it to yo
 Add a meaningful title and description, please! This is important for documentation.
 
 ## Pull Requests
+Once you have commited your changes, you can notify that an update to the repository is ready with a pull request.
+This should allow the people who manage pull requests to review your changes, and decide if it should be merged.
+
+> ### Blockquote practice
+> This block is just for figuring out Markdown syntax.
